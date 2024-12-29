@@ -12,10 +12,6 @@ pip install opencv-python
 
 <div align="center" markdown="1">
 
-Make Sure to follow me:
-
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush-thakur02)
-[![BioLink](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://bio.link/ayush_thakur02)
 
 </div>
 
