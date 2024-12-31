@@ -150,10 +150,4 @@ If a new object is identified, the list of points must also be updated. So here 
 
 As can be seen from the image below, the id is kept until the object is recognized. In fact, in the central part of the video, it traces very well.
 
-<a href="https://ibb.co/Fn39gbb"><img src="https://i.ibb.co/mSTm6CC/image.png" alt="image" border="0"></a>
 
-# Contribute
-
-If you come across any errors or bugs, please don't hesitate to reach out via email, or feel free to create an issue ticket. Also, if you have any ideas or suggestions for enhancements, we'd love to hear from you. Your feedback and contributions are invaluable in improving this resource. Thank you for your collaboration in making this even better! 😊
-
-</div>
